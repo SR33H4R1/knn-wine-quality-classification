@@ -26,7 +26,6 @@ Binary label:
 - `knn_wine_quality.ipynb` — full code  
 - `winequality-red.csv` — dataset  
 - `images/confusion_matrix.png`  
-- `images/k_vs_accuracy.png`  
 
 ## 🚀 How to Run
 ```bash
