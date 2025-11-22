@@ -23,9 +23,9 @@ Binary label:
 - KNN performance drops with larger k values due to class overlap and imbalance.
 
 ## 📁 Files
-- `knn_wine_quality.ipynb` — full code  
+- `knn_wine.ipynb` — full code  
 - `winequality-red.csv` — dataset  
-- `images/confusion_matrix.png`  
+- `/confusion_matrix.png`  
 
 ## 🚀 How to Run
 ```bash
